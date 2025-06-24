@@ -1,6 +1,8 @@
 # mcm_r
 Estimate and Test Inter-generational Social Mobility Effect on an Outcome Use mcm With (In) R Software
 
+https://www.youtube.com/watch?v=xRuhRX_BzmU
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
